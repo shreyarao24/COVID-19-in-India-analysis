@@ -6,4 +6,3 @@ This project focused on analysing trends present in COVID-19 data sourced from w
 
 All analysis was performed using the pandas and matplotlib modules in Python 3. 
 
-
